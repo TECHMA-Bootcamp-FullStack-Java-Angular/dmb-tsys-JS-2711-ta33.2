@@ -7,7 +7,7 @@
 # T33.2 – Funciones JS
 
 This repository contains the Bootcamp tasks 👨‍💻
-                               https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_01/index.html
+                             
 [Click here to see exercise 1](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_01/index.html)
 
 [Click here to see exercise 2](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_02/index.html) 
