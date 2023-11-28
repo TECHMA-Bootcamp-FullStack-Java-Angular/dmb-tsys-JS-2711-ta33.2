@@ -8,26 +8,26 @@
 
 This repository contains the Bootcamp tasks 👨‍💻
 
-[Click here to see exercise 1](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_1/index.html)
+[Click here to see exercise 1](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_1/index.html)
 
-[Click here to see exercise 2](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_2/index.html) 
+[Click here to see exercise 2](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_2/index.html) 
 
-[Click here to see exercise 3](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_3/index.html) 
+[Click here to see exercise 3](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_3/index.html) 
 
-[Click here to see exercise 4](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_4/index.html) 
+[Click here to see exercise 4](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_4/index.html) 
 
-[Click here to see exercise 5](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_5/index.html) 
+[Click here to see exercise 5](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_5/index.html) 
 
-[Click here to see exercise 6](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_6/index.html)
+[Click here to see exercise 6](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_6/index.html)
 
-[Click here to see exercise 7](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_7/index.html) 
+[Click here to see exercise 7](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_7/index.html) 
 
-[Click here to see exercise 8](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_8/index.html) 
+[Click here to see exercise 8](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_8/index.html) 
 
-[Click here to see exercise 9](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_9/index.html) 
+[Click here to see exercise 9](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_9/index.html) 
 
-[Click here to see exercise 10](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_10/index.html) 
+[Click here to see exercise 10](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_10/index.html) 
 
-[Click here to see exercise 11](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_11/index.html) 
+[Click here to see exercise 11](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_11/index.html) 
 
-[Click here to see exercise 12](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/Ejercicio_12/index.html) 
+[Click here to see exercise 12](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-JS-2711-ta33.2/ejercicio_12/index.html) 
